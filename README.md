@@ -13,7 +13,7 @@ Postiindeksite päring Omniva andmebaasist.
 const indeks = require("postiindeksid")
     
 indeks("raekoja plats 9", function(err, data) {
-console.log(data[0]) // =>  Eesti Vabariik, Tartu maakond, Tartu linn, Tartu linn, Raekoja plats 9, 51004
+    console.log(data[0]) // =>  Eesti Vabariik, Tartu maakond, Tartu linn, Tartu linn, Raekoja plats 9, 51004
 })
 ```    
 
