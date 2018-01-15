@@ -1,7 +1,7 @@
 {
-  "name": "Eesti postiindeksid",
-  "version": "1.0.0",
-  "description": "Postiindeksite päring Omniva andmebaasist.",
+  "name": "postiindeksid",
+  "version": "1.0.1",
+  "description": "Eesti postiindeksite päring Omniva andmebaasist.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
