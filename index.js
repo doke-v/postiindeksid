@@ -22,7 +22,6 @@ function indeks(input, callback) {
             })
 
             var count = body("p").get().length
-            console.log(count)
             var arr = []
 
 

@@ -1,6 +1,6 @@
 {
   "name": "postiindeksid",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Eesti postiindeksite päring Omniva andmebaasist.",
   "main": "index.js",
   "scripts": {
